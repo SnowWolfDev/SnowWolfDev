@@ -2,7 +2,7 @@
 
 Hello i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github.com/Oeria-studio)
 
-**i know this language:**
+**know language**
 -----
 
 * Javascript `40%`
