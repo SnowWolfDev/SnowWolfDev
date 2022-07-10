@@ -8,6 +8,7 @@ Hello i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github
 * Javascript `40%`
 * C++ `5%`
 * Html/css `50%`
+* Lua `75%`
 
 **Stats**
 -----
