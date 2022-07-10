@@ -1,5 +1,6 @@
 # About me
 
+Hellow i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github.com/Oeria-studio)
 
 **Stats**
 -----
