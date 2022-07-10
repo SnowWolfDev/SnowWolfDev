@@ -2,6 +2,14 @@
 
 Hello i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github.com/Oeria-studio)
 
+**Links**
+-----
+* [Discord](https://discord.gg/Xg4bPtys38)
+* [Youtube](https://www.youtube.com/channel/UCT8xmcA3wm590eQg1BjujPQ)
+* [Twitch](https://www.twitch.tv/snow_wolf_tv)
+* [Twitter](https://twitter.com/SnowWolfLeVrai)
+* [Steam](https://steamcommunity.com/id/snow-_-wolf)
+
 **know language**
 -----
 
