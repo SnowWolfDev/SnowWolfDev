@@ -1,6 +1,13 @@
 # About me
 
-Hellow i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github.com/Oeria-studio)
+Hello i'm snow-_-wolf, i have 15 years old and i work for [Oeria](https://github.com/Oeria-studio)
+
+**i know this language:**
+-----
+
+* Javascript `40%`
+* C++ `5%`
+* Html/css `50%`
 
 **Stats**
 -----
