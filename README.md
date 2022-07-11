@@ -1,3 +1,3 @@
-**Things i work on**
+### Things i work on
 
-[Oeria studio](https://github.com/Oeria-studio) — French studio making game on steam and more.
+[<img src="https://avatars.githubusercontent.com/u/107775921?s=400&u=7e28f3aa12f519cf0d0c5c468a3c94e0b8544320&v=4" width="32" height="32" align="center"> **Oeria studio**](https://github.com/Oeria-studio) — French studio making game on steam and more.
