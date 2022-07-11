@@ -1,1 +1,3 @@
-<img alt="about me" src="https://i.imgur.com/Oznlqay.jpg">
+**Things i work on**
+
+[Oeria studio](https://github.com/Oeria-studio) — French studio making game on steam and more.
