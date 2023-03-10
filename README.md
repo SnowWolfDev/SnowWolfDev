@@ -8,4 +8,4 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ### 👀 Views
-![Views](https://visitcount.itsvg.in/api?id=UnderscoreThibaut&label=Views&color=1&icon=5&pretty=true)
+![Views](https://visitcount.itsvg.in/api?id=SnowWolfDev&label=Views&color=1&icon=5&pretty=true)
